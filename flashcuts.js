@@ -24,12 +24,13 @@ const keywords = [
 
 const works = [
   { title: "motion graphics",      video: "graphic.mp4",  poster: "graphic.jpg", link: "#" },
-  { title: "Lyrical songs",      video: "motion.mp4",  poster: "motion.jpg", link: "#" },
-  { title: "Themed videos", video: "simba.mp4",  poster: "simba.jpg", link: "#" },
-  { title: "Events",      video: "party.mp4",  poster: "party.jpg", link: "#" },
-  { title: "Promotional videos",      video: "650.mp4",  poster: "650.jpg", link: "#" },
-  { title: "Bike edits",      video: "350.mp4",  poster: "350.jpg", link: "#" },
-  { title: "Brand Story",          video: "pvc.mp4",  poster: "pvc.jpg", link: "#" }
+  { title: "Lyrical songs",      video: "motion.mp4",  poster: "motion.jpg", link: "https://www.instagram.com/reel/DVBbobwkbiN/?igsh=OHdrZG85YXdlYW9x" },
+  { title: "Themed videos", video: "simba.mp4",  poster: "simba.jpg", link: "https://www.instagram.com/reel/DXsltvkCW0c/?igsh=Y28yb3VpdTVpb2Nu" },
+  { title: "Events",      video: "party.mp4",  poster: "party.jpg", link: "https://www.instagram.com/reel/DVBbSSAERZp/?igsh=N2M5NWM1YnQ5MjM1" },
+  { title: "Promotional videos",      video: "650.mp4",  poster: "650.jpg", link: "https://www.instagram.com/reel/DXhArUVCKwo/?igsh=c3UzazVvdjY0enpq" },
+  { title: "Bike edits",      video: "350.mp4",  poster: "350.jpg", link: "https://www.instagram.com/reel/DU8yIcpk6OU/?igsh=cGRxYXBjazN0NzF5" },
+  { title: "Bike edits",      video: "mt15.mp4",  poster: "mt15.jpg", link: "https://www.instagram.com/reel/DXcnBQfiFSa/?igsh=MTZ2c2EwYzlzemNlag==" },
+  { title: "Brand Story",          video: "pvc.mp4",  poster: "pvc.jpg", link: "https://www.instagram.com/reel/DXcmHvcjaVb/?igsh=OTFid2Rsb2xpZnEz" }
 ];
 
 // ---------- GLITCH KEYWORD ROTATION (2.6 sec) ----------
