@@ -23,13 +23,12 @@ const keywords = [
 //   4. Leave "video": "" to show the 🎬 placeholder instead
 
 const works = [
-  { title: "motion graphics",      video: "motion.mp4",  poster: "motion.jpg", link: "#" },
-  { title: "Lyrical songs",      video: "lyrics.mp4",  poster: "lyrics.jpg", link: "#" },
+  { title: "motion graphics",      video: "graphic.mp4",  poster: "graphic.jpg", link: "#" },
+  { title: "Lyrical songs",      video: "motion.mp4",  poster: "motion.jpg", link: "#" },
   { title: "Themed videos", video: "simba.mp4",  poster: "simba.jpg", link: "#" },
-  { title: "Birthday Events",      video: "birthday.mp4",  poster: "birthday.jpg", link: "#" },
-  { title: "Bike edits1",      video: "mt15.mp4",  poster: "mt15.jpg", link: "#" },
-  { title: "Bike edits2",      video: "350.mp4",  poster: "350.jpg", link: "#" },
-  { title: "Business video",       video: "Aveo.mp4",  poster: "Aveo.jpg", link: "#" },
+  { title: "Events",      video: "party.mp4",  poster: "party.jpg", link: "#" },
+  { title: "Promotional videos",      video: "650.mp4",  poster: "650.jpg", link: "#" },
+  { title: "Bike edits",      video: "350.mp4",  poster: "350.jpg", link: "#" },
   { title: "Brand Story",          video: "pvc.mp4",  poster: "pvc.jpg", link: "#" }
 ];
 
