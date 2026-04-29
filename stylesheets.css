@@ -278,11 +278,12 @@ h1, h2, h3 {
   gap: 1.5rem;
   padding: 0.5rem 0 2rem 0;
   width: max-content;
+   height:max-content;
 }
 .slider-track > * { scroll-snap-align: start; }
 
 .work-card {
-  width: 300px;
+  width: 500px;
   flex-shrink: 0;
   background: var(--card-bg);
   border-radius: 28px;
